@@ -9,8 +9,8 @@ GVHD: Vũ Minh Sang
 2. Tên đề tài: Web bán hàng đồ ăn Hàn Quốc
 3. Tóm tắt nội dung đề tài:
 - Web sử dụng ngôn ngữ:
-+ Front-end: HTML, CSS, JS
-+ Back-end: PHP
-+ Hệ quản trị cơ sở dữ liệu: MySQL
+  + Front-end: HTML, CSS, JS
+  + Back-end: PHP
+  + Hệ quản trị cơ sở dữ liệu: MySQL
 - Mô hình thiết kế: mô hình MVC (Model – View – Controller)
 - Sử dụng Framework: Bootstrap
